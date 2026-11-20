@@ -1,6 +1,6 @@
 # ai-portfolio-tracker
 
-Overview of my AI engineering / full-stack portfolio projects. Each project is built over about five days in its own repository, in small, reviewable commits. A per-run log is in [PROGRESS.md](PROGRESS.md).
+Overview of my AI engineering / full-stack portfolio projects. A progress log is in [PROGRESS.md](PROGRESS.md).
 
 ## Projects
 
